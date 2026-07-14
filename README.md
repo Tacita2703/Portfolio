@@ -20,7 +20,7 @@ The [wiki in this repo](../../wiki) contains sample help guides I've written, tr
 
 ---
 
-## ✨ Selected highlights
+## ✨ Highlights
 
 - **Regulatory translation** — turned frameworks like EMI, CSOP, BADR, ITEPA, S/EIS, PISCES, IFRS and 409a into 50+ customer-facing help articles, preserving legal accuracy without losing clarity.
 - **0→1 launches** — shaped content for 7+ brand-new products (PISCES, Convertibles, Director/PSC ID verification, HRIS integration, Data rooms, Vest on exit, structured milestone vesting), embedded with senior PMs from intent stage through release.
