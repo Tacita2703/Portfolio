@@ -13,7 +13,7 @@ I make complex, regulated financial concepts clear. Technical writer at [Vestd](
 The [wiki in this repo](../../wiki) contains sample help guides I've written, translating dense regulatory frameworks into plain, accurate customer-facing documentation:
 
 - [How to exercise options on Vestd](../../wiki/How-to-exercise-options-on-Vestd)
-- [How to incorporate a company on Companies House](/wiki/How-to-incorporate-a-company-on-Vestd)
+- [How to incorporate a company on Companies House](https://github.com/Tacita2703/Portfolio/wiki/How-to-incorporate-a-company-on-Vestd)
 - [How to upload share certificates](/wiki/How-to-upload-share-certificates-on-Vestd)
 - [Identity Verification & Companies House](/wiki/Identity-Verification-&-Companies-House:-What-you-need-to-know)
 - [PISCES Investor Types Guide](/wiki/PISCES-Investor-Types-Guide)
