@@ -16,7 +16,7 @@ The [wiki in this repo](../../wiki) contains sample help guides I've written, tr
 - [How to incorporate a company on Companies House](https://github.com/Tacita2703/Portfolio/wiki/How-to-incorporate-a-company-on-Vestd)
 - [How to upload share certificates](https://github.com/Tacita2703/Portfolio/wiki/How-to-upload-share-certificates-on-Vestd)
 - [Identity Verification & Companies House](https://github.com/Tacita2703/Portfolio/wiki/Identity-Verification-&-Companies-House:-What-you-need-to-know)
-- [PISCES Investor Types Guide](/wiki/PISCES-Investor-Types-Guide)
+- [PISCES Investor Types Guide](https://github.com/Tacita2703/Portfolio/wiki/PISCES-Investor-Types-Guide)
 
 ---
 
