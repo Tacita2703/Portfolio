@@ -4,7 +4,7 @@
 
 📧 tacita.bugnath@live.com · 📍 London, UK
 
-I make complex, regulated financial concepts clear. Technical writer at [Vestd](https://www.vestd.com) since 2021, where I own in-app copy, help guides and customer communications — three of the company's four messaging quadrants — across 27 product areas. Deep domain expertise in UK equity schemes, HMRC compliance and regulated fintech content.
+I make complex, regulated financial concepts clear. Technical writer at [Vestd](https://www.vestd.com) since 2024, where I own in-app copy, help guides and customer communications — three of the company's four messaging quadrants — across 27 product areas. Deep domain expertise in UK equity schemes, HMRC compliance and regulated fintech content.
 
 ---
 
@@ -13,10 +13,10 @@ I make complex, regulated financial concepts clear. Technical writer at [Vestd](
 The [wiki in this repo](../../wiki) contains sample help guides I've written, translating dense regulatory frameworks into plain, accurate customer-facing documentation:
 
 - [How to exercise options on Vestd](../../wiki/How-to-exercise-options-on-Vestd)
-- [How to incorporate a company on Companies House](../../wiki)
-- [How to upload share certificates](../../wiki)
-- [Identity Verification & Companies House](../../wiki)
-- [PISCES Investor Types Guide](../../wiki)
+- [How to incorporate a company on Companies House](/wiki/How-to-incorporate-a-company-on-Vestd)
+- [How to upload share certificates](/wiki/How-to-upload-share-certificates-on-Vestd)
+- [Identity Verification & Companies House](/wiki/Identity-Verification-&-Companies-House:-What-you-need-to-know)
+- [PISCES Investor Types Guide](/wiki/PISCES-Investor-Types-Guide)
 
 ---
 
