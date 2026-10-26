@@ -1,66 +1,53 @@
-# Tacita Bugnath
+# Tacita Bugnath: writing portfolio
 
-**Technical Writer · UX Writer · Content Strategist · Information Architect**
+Technical writer at [Vestd](https://www.vestd.com), an FCA-regulated equity management platform, and the company's only writer. I write the help centre, in-app copy and customer emails for every product area, and I build AI workflows that keep that content accurate and up to date.
 
-📧 tacita.bugnath@live.com · 📍 Sheffield, UK
+This repo collects samples of that work. Each one has a short note on the problem, what I did and what changed.
 
-I make complex, regulated financial concepts clear. Technical writer at [Vestd](https://www.vestd.com) since 2024, where I own in-app copy, help guides and customer communications — three of the company's four messaging quadrants — across 27 product areas. Deep domain expertise in UK equity schemes, HMRC compliance and regulated fintech content.
+[LinkedIn](https://www.linkedin.com/in/tacita-bugnath) · tacita.bugnath@live.com
 
----
+## Contents
 
-## 📚 Work samples
+1. [AI workflows](#ai-workflows)
+2. [Help guides](#help-guides)
+3. [In-app copy](#in-app-copy)
+4. [Information architecture](#information-architecture)
+5. [How I work](#how-i-work)
 
-The [wiki in this repo](../../wiki) contains sample help guides I've written, translating dense regulatory frameworks into plain, accurate customer-facing documentation:
+## AI workflows
 
-- [How to exercise options on Vestd](../../wiki/How-to-exercise-options-on-Vestd)
-- [How to incorporate a company on Vestd](https://github.com/Tacita2703/Portfolio/wiki/How-to-incorporate-a-company-on-Vestd)
-- [How to upload share certificates](https://github.com/Tacita2703/Portfolio/wiki/How-to-upload-share-certificates-on-Vestd)
-- [Identity verification & Companies House](https://github.com/Tacita2703/Portfolio/wiki/Identity-Verification-&-Companies-House:-What-you-need-to-know)
-- [PISCES investor types guide](https://github.com/Tacita2703/Portfolio/wiki/PISCES-Investor-Types-Guide)
+| Sample | Problem | What I did | Result |
+|---|---|---|---|
+| [Product update sweep](ai-workflows/product-update-sweep/) | New features were shipping and help guides went out of date without anyone noticing. | Built an AI agent that checks each day's product updates against the help centre and reports which guides may need changing and where new guides are needed. It separates strong matches from weak leads and says what it couldn't check. | In its first three weeks it reviewed 18 updates and flagged 8 guides needing changes and 11 possible new articles. Within two weeks I'd updated 6 guides and written 3 new ones. |
+| [Regulated content review skill](ai-workflows/regulated-content-review/) | Every guide needs the same checks before publishing, and in a regulated product a missed check is a compliance risk. | Wrote the review process as a Claude skill. It checks terminology, unhedged regulatory claims, readability, accessibility and how easily AI can retrieve the content, then gives a publish, expert sign-off or rewrite verdict. | On its first run it found a wrongly named accounting standard in a live help article. |
+| [Guide request triage](ai-workflows/guide-request-triage/) | Guide requests came in through a slow form and had to be sorted by hand. | Replaced the form with a shared sheet that an AI agent scans daily. It creates Jira tickets and alerts me to new requests. | No manual triage, and data on which topics each business unit asks about most. |
 
----
+## Help guides
 
-## ✨ Highlights
+| Guide | Why it's here |
+|---|---|
+| [Finding your documents on Vestd](help-guides/finding-your-documents.md) | Support flagged this as a common query. Related queries fell from around 25 a month to 5 in the month after it went live. |
+| [How to upload your HMRC approval letter](help-guides/upload-hmrc-approval-letter.md) | Written after the support team's AI reply tool gave a customer wrong instructions, because no guide existed. Published within two weeks of the gap being flagged. |
+| [How to exercise options on Vestd](help-guides/exercise-options.md) | A multi-step task guide for admins and option holders, covering both sides of the process. |
+| [PISCES investor types](help-guides/pisces-investor-types.md) | Explains a new UK regulatory framework to investors who have to self-certify, without giving financial advice. |
 
-- **Regulatory translation** — turned frameworks like EMI, CSOP, BADR, ITEPA, S/EIS, PISCES, IFRS and 409a into 50+ customer-facing help articles, preserving legal accuracy without losing clarity.
-- **0→1 launches** — shaped content for 7+ brand-new products (PISCES, Convertibles, Director/PSC ID verification, HRIS integration, Data rooms, Vest on exit, structured milestone vesting), embedded with senior PMs from intent stage through release.
-- **Information architecture** — built and maintain Vestd's controlled regulatory vocabulary, tagging taxonomy and metadata schema (including AI-retrieval fields) across UI, help guides and email.
-- **Content governance** — designed 7 governance processes, including a pre-publication sign-off gate for regulated content and a PM–Engineering sync that stopped features shipping without reviewed copy.
-- **Evidence-driven rewrites** — triangulate FullStory replays, HubSpot content performance and CS insight to find where users stall, then move guidance into the product itself.
-- **AI content workflows** — piloted AI-assisted knowledge base drafting and defined the human-in-the-loop governance model needed before AI-generated content could be trusted.
+More published guides: [How to upload share certificates](help-guides/upload-share-certificates.md) · [Identity verification and Companies House](help-guides/identity-verification.md) · [How to incorporate a company on Companies House](help-guides/incorporate-a-company.md)
 
----
+## In-app copy
 
-## 🛠 Skills & tools
+| Sample | What it shows |
+|---|---|
+| [Name change flow](in-app-copy/name-change-flow.md) | Before and after copy, plus design changes I proposed that the designer added: a confirmation summary and a card layout. |
 
-**Craft:** technical writing · UX microcopy · information architecture & taxonomy · content strategy & governance · help centre strategy · accessibility · metadata · AI-assisted content workflows · REST, JSON & XML
+## Information architecture
 
-**Tools:** Figma · Jira · Confluence · Git · FullStory · Miro · HubSpot · Salesforce · Zendesk · Intercom · Tableau · Canva · Final Cut Pro
+| Sample | Status |
+|---|---|
+| [Help centre reorganisation](information-architecture/help-centre-reorganisation.md) | In progress. An audit of every guide by category and a proposed new structure, so customers can find guides more easily. |
 
----
+## How I work
 
-## 💼 Experience
-
-**Technical Writer, Vestd** — July 2024–present
-Sole writer owning in-app copy, help guides and customer comms end-to-end; all IA, compliance framing and governance decisions made independently.
-
-**Customer Success Associate & Onboarding Specialist, Vestd** — Nov 2021–July 2024
-Onboarding, support and retention for 80+ client accounts from pre-seed to exit; led cross-functional rollout of a new service offering.
-
----
-
-## 🎓 Education & development
-
-**BA (Hons) Comparative Literature and Linguistics, 2:1** — Queen Mary, University of London
-
-API technical writing coursework (Udemy, 2025): JSON & XML, REST for API documentation, software documentation with Markdown & GitHub, HTML/CSS/JavaScript.
-
----
-
-## 🏆 Recognition
-
-Shortlisted, **Penguin's #Merky Books New Writers' Prize** 2024/25
-
----
-
-*Full CV available on request: tacita.bugnath@live.com*
+- **I check everything AI produces.** The agents report what they couldn't verify, and nothing is published without a human review and, where needed, sign-off from a subject expert.
+- **I use data to decide what to write next.** Support queries, guide requests, session replays and article performance.
+- **I test what I document.** I follow my own steps on the platform and flag product and UX problems I find along the way.
+- **I write for people and for AI.** Guides are structured so customers can follow them and AI assistants can retrieve the right answer.
