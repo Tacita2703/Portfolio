@@ -2,7 +2,7 @@
 
 **Technical Writer · UX Writer · Content Strategist · Information Architect**
 
-📧 tacita.bugnath@live.com · 📍 London, UK
+📧 tacita.bugnath@live.com · 📍 Sheffield, UK
 
 I make complex, regulated financial concepts clear. Technical writer at [Vestd](https://www.vestd.com) since 2024, where I own in-app copy, help guides and customer communications — three of the company's four messaging quadrants — across 27 product areas. Deep domain expertise in UK equity schemes, HMRC compliance and regulated fintech content.
 
